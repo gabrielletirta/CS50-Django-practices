@@ -3,3 +3,6 @@ This repository serves as a continuation of my previous repository, [Previous Re
 
 ## Purpose
 The primary purpose of this repository is to record and track my daily progress as I advance through the course, particularly focusing on lecture 3: Django practice. This will include code updates, notes, and insights gained during the course.
+
+## Daily records:
+#18/09/2023 Day14: Watched video Lecture3:Django, until minutes 34. I learned on how to set up python and Django frameworks, routes.
