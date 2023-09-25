@@ -16,3 +16,7 @@ The primary purpose of this repository is to record and track my daily progress 
 #22/09/2023 Day18: I joined DBT Data Transfirnations, I did not learn anything regarding Django on this day.
 
 #23/09/2023 Day19: I dedicated 4.30 hours to continue this lesson, I learned about : adding templates, made css files, also I made a 'Is It New Year's?' and learned on logic. Learned how to add logic into HTML files, and made a fixed tasks (to do list). Watched the lectures until 1:00:34
+
+#24/09/2023 Day20: I added forms using Django forms
+
+#25/09/2023 Day21: I learned on how to use forms and store data on session basis. This is a new thing for me and such a hard pill to swallow. But today, I finished django lectures and will proceed to do Project1.
