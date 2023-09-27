@@ -1,4 +1,4 @@
-# CS50-Django-practices
+# CS50W-Django-practices
 This repository serves as a continuation of my [Previous Repository(CS50W-Project0)](https://github.com/gabrielletirta/CS50W-Project0). In this new repository, I will continue to document my progress as I delve into the world of web development through the CS50 Web Programming course.
 
 ## Purpose
